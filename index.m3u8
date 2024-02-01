@@ -1,7 +1,5 @@
-#EXTM3U × Cool IPTV
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SncVBRy/download.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠",COOLiPTV
-https://t.me/Cool_IPTV/
+#EXTM3U × TATAPLAY
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bUnUJWo/ntSTCfggobnTOQ","kid":"AZEJw4hSVlCIgC0gx0rviQ"}],"type":"temporary"}
